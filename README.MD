@@ -19,7 +19,7 @@
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src="./assets/devlinks.png">
+  <img alt="projeto DevLinks" src=".//assets/preview.png">
 </p>
 
 ## 🚀 Tecnologias
